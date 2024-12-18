@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ecd1376-9480-44a7-b28e-d9b0bad5f3a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swapNum.py" afterDir="false" />
-    </list>
+    <list default="true" id="1ecd1376-9480-44a7-b28e-d9b0bad5f3a8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +32,7 @@
     "Python.swapNum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
