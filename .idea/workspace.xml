@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ecd1376-9480-44a7-b28e-d9b0bad5f3a8" name="Changes" comment="" />
+    <list default="true" id="1ecd1376-9480-44a7-b28e-d9b0bad5f3a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/vowelsStrings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
