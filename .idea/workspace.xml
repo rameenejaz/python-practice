@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ecd1376-9480-44a7-b28e-d9b0bad5f3a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cumulative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
