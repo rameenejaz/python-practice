@@ -5,3 +5,5 @@ def get_stats(numbers):
 numbers=(1,2,3,4,5)
 stats=get_stats(numbers)
 print(stats)
+x=(1,2,3,10,20,34)
+print(x[5:])
