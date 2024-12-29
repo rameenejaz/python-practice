@@ -6,14 +6,14 @@
 # hip_hop_set=set(hip_hop)
 # print(indie_set, hip_hop_set)
 
-# courses={"Course 1":"physics", "Course 2": "Programming", "Course 3":"OOP"}
-# for key, value in courses.items():
-#     if value=="AI":
-#         print(key, "is an AI course")
-#     elif value=="Programming":
-#         print (key, "is a programming course")
-#     else:
-#         print (key, "is a data engineering course")
+courses={"Course 1":"physics", "Course 2": "Programming", "Course 3":"OOP"}
+for key, value in courses.items():
+    if value=="AI":
+        print(key, "is an AI course")
+    elif value=="Programming":
+        print (key, "is a programming course")
+    else:
+        print (key, "is a data engineering course")
 
 # ticketsSold=0
 # max_capacity=10
