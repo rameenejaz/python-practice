@@ -47,10 +47,36 @@
 #     counter+=1
 # print(sum)
 
-number=int(input("Enter a number:"))
-factorial=1
-counter=1
-while counter<=number:
-    factorial=counter*factorial
-    counter+=1
-print(f"The factorial of {number} is ",factorial)
+# number=int(input("Enter a number:"))
+# factorial=1
+# counter=1
+# while counter<=number:
+#     factorial=counter*factorial
+#     counter+=1
+# print(f"The factorial of {number} is ",factorial)
+
+# def calc_sum(a,b):
+#     sum=a+b
+#     return sum
+# print(calc_sum(5,3))
+
+# def print_hello():
+#     print("Hello world")
+# print_hello()
+
+# def fact_calc(n):
+#     fact=1
+#     for i in range(1,n+1):
+#         fact*=i
+#     print(fact)
+word = input("enter a word or sentence:")
+Vowels = ('a', 'e', 'i', 'o', 'u')
+counts = {"vowels": 0, "consonants": 0}
+for char in word:
+    if char.isalpha():
+        if char in Vowels:
+            counts["vowels"] += 1
+        else:
+            counts["consonants"] += 1
+
+print(counts)
